@@ -1,2 +1,2 @@
-# collisionAlgorithm_SG
-Clase 21 solucionado
+# collisionAlgorithm
+Algorithm to detect collision between two objects
